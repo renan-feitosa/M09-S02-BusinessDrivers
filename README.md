@@ -6,7 +6,12 @@
 
 # Mapa de Business Drivers 
 
-&emsp;&emsp; O objetivo deste repositório é apresentar o mapa de Business Drivers para pedidos B2B no app dos entregadores da Rappi. O mapa foi criado utilizando a ferramenta [Structurizr](https://structurizr.com/) utilizando o código abaixo.
+&emsp;&emsp; O objetivo deste repositório é apresentar o mapa de Business Drivers para pedidos B2B no app dos entregadores da Rappi. Os seguintes direcionadores de negócio foram considerados:
+
+- Taxa de pedidos B2B concluídos com sucesso ≥ 90%.
+- Prazo de entrega para pedidos B2B ≤ 60 minutos.
+
+ O mapa foi criado utilizando a ferramenta [Structurizr](https://structurizr.com/) utilizando o código abaixo.
 
 
 ```
