@@ -35,7 +35,7 @@ workspace "Rappi B2B Delivery" "Mapa dos Business Drivers para pedidos B2B no ap
 <br>
 
 # Estratégia e massa de testes
-&emsp;&emsp; A estratégia de testes para o mapa de Business Drivers foi baseada em testes de aceitação, onde cada um dos drivers foi verificado para garantir que o sistema está funcionando corretamente. Foram realizados utilizando a ferramenta [Gherkin](https://cucumber.io/docs/gherkin/) com a biblioteca [Behave](https://behave.readthedocs.io/en/latest/) em Python. Além disso, é possível ler os testes de aceitação (escritos no padrão Given-When-Then) no diretório features, dentro dos aquivos `pedido.feature` e `entrega.feature`.
+&emsp;&emsp; A estratégia de testes para o mapa de Business Drivers foi baseada em testes de aceitação, onde cada um dos drivers foi verificado para garantir que o sistema está funcionando corretamente. Foram realizados utilizando a ferramenta [Gherkin](https://cucumber.io/docs/gherkin/) com a biblioteca [Behave](https://behave.readthedocs.io/en/latest/) em Python. Além disso, é possível ler os testes de aceitação (escritos no padrão Given-When-Then) no diretório features, dentro dos aquivos `pedido.feature` e `prazo.feature`.
 
 &emsp;&emsp; Para rodá-los, basta executar os comandos abaixos.
 
